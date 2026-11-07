@@ -13,3 +13,8 @@ Copiar ambas carpetas a `C:\laragon\www`, iniciar Laragon y visitar:
 - `http://localhost/app-medica/index.php`
 
 Todas las rutas del proyecto son relativas y los enlaces internos utilizan la extensión `.php`.
+
+## Publicación
+
+- Repositorio: https://github.com/Brlamafia/php-practicas-medicitas
+- Vista previa: https://lighthearted-scone-e5fc61.netlify.app/
